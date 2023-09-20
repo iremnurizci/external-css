@@ -1,0 +1,18 @@
+section {
+    background-color: #8294C4;
+    text-align: center;
+}
+.f25 {font-size: 25px;}
+.f20 {font-size: 20px;}
+#page-title {
+    border-bottom: 2px solid red;
+
+}
+#page-subtitle {
+    border-bottom: 3px  solid yellow;
+
+}
+.text-colour {
+    color: lightblue;
+
+}
